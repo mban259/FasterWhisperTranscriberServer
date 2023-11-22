@@ -1,8 +1,8 @@
 # FasterWhisperTranscriberServer
 
-
 ```
 $ pip install fastapi faster-whisper uvicorn
+$ python main.py
 ```
 
 ## License Notice
